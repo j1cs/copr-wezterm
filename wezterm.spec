@@ -54,5 +54,5 @@ desktop-file-validate %{buildroot}%{_datadir}/applications/org.wezfurlong.wezter
 %{_bindir}/strip-ansi-escapes
 
 %changelog 20221119-145034-49b9839f
-* Sat Nov 20 2022 Juan Cuzmar <jcuzmar@protonmail.com> - 20220905.102802.7d4b8249-1
+* Sun Nov 20 2022 Juan Cuzmar <jcuzmar@protonmail.com> - 20220905.102802.7d4b8249-1
 - Update to wezterm 20221119-145034-49b9839f
