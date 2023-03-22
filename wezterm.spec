@@ -1,6 +1,6 @@
 %global debug_package %{nil}
 
-%define vtag 20221119-145034-49b9839f
+%define vtag 20230320-124340-559cb7b0
 
 Name:    wezterm
 Version: %(echo "$(tr '-' '.' <<< %{vtag})")
